@@ -62,3 +62,6 @@ This repository contains my hands-on implementations and notes from completing t
 ## 🙏 Acknowledgments
 - [Codebasics YouTube channel](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) for the excellent course
 - [TensorFlow/Keras](https://www.tensorflow.org/learn) documentation and community
+
+## 📝 Dataset
+Due to the large file size, some of the big datasets can be downloaded here via [Google Drive](https://drive.google.com/drive/folders/1Cpaafn4fI03FZ9axskHm3eAIANsanV1d?usp=sharing).
