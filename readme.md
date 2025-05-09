@@ -34,22 +34,27 @@ This repository contains my hands-on implementations and notes from completing t
    - Perceptrons, activation functions 
    - Backpropagation, gradient descent 
    - Implementing NNs from scratch
-   - 
 
-2. Deep Learning with TensorFlow/Keras 
+2. Data Processing
+   - Handling imbalance datasets
+   - Data augmentation 
+
+3. Deep Learning with TensorFlow/Keras 
    - Dense network architectures 
    - Regularization techniques 
    - Optimization algorithms
 
-3. Computer Vision 
+4. Computer Vision 
    - CNN architectures (Conv2D, pooling)
    - Image augmentation 
    - Pretrained models
+   - Transfer learning
 
-4. Natural Language Processing with Gensim / BERT
+5. Natural Language Processing with Gensim / BERT
    - Text preprocessing
    - Word embeddings 
    - Sequence models (RNNs, LSTMs)
+
 
 
 ## 🚀 Future Learning Goals
